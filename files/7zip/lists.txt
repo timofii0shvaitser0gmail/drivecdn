@@ -1,0 +1,25 @@
+7za.exe
+7za.dll
+7zxa.dll
+
+FLDR arm64
+arm64\7za.exe
+arm64\7za.dll
+arm64\7zxa.dll
+arm64\7-ZipFar.dll
+
+FLDR Far
+Far\7-ZipEng.hlf
+Far\7-ZipEng.lng
+Far\7-ZipFar.dll
+Far\7-ZipFar64.dll
+Far\7-ZipRus.hlf
+Far\7-ZipRus.lng
+Far\7zToFar.ini
+Far\far7z.reg
+Far\far7z.txt
+
+FLDR x64
+x64\7za.exe
+x64\7za.dll
+x64\7zxa.dll
